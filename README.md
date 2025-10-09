@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![snake gif](https://github.com/tiagovideira8/tiagovideira8/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **tiagovideira8/tiagovideira8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
