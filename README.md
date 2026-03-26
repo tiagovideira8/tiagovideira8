@@ -23,7 +23,10 @@
 ### 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,js,c," />
+  <img src="https://skillicons.dev/icons?i=linux,python,js,c" />
+  <img src="https://img.shields.io/badge/-MATLAB-black?style=for-the-badge&logo=Mathworks" />
+  <img src="https://img.shields.io/badge/-Wireshark-black?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql" />
 </p>
 
 ---
