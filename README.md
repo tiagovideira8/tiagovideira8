@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago Videira</h1>
 
 <p align="center">
-  💻 Developer | 🚀 Tech Enthusiast | 🎯 Always Learning
+  💻 Engineer | 🚀 Tech Enthusiast | 🎯 Always Learning
 </p>
 
 <p align="center">
@@ -59,9 +59,8 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[your-linkedin]">LinkedIn</a> •
+  <a href="[www.linkedin.com/in/tiagogvideira]">LinkedIn</a> •
   <a href="[your-portfolio]">Portfolio</a> •
-  <a href="mailto:[your-email]">Email</a>
 </p>
 
 ---
