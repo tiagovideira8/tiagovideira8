@@ -1,44 +1,65 @@
-<h1 align="center">👋 Olá, eu sou Tiago Videira</h1>
+<h1 align="center">Hi 👋, I'm Tiago Videira</h1>
 
 <p align="center">
-  💻 Developer | 🚀 Tech Lover | 🎯 Always Learning
+  💻 Developer | 🚀 Tech Enthusiast | 🎯 Always Learning
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Always+learning+new+things;Building+cool+projects" />
-</p>
-
----
-
-### 🧑‍💻 Sobre mim
-
-- 🔭 Atualmente a trabalhar em: **[projeto]**
-- 🌱 A aprender: **[tech]**
-- ⚡ Fun fact: **[algo interessante]**
-
----
-
-### 🛠️ Tecnologias
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,tailwind,python" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Passionate+about+Technology;Building+cool+projects" />
 </p>
 
 ---
 
-### 📊 Stats
+### 🧑‍💻 About Me
+
+- 💻 I’m passionate about building projects and learning new technologies  
+- 🌱 Currently learning: **[add what you're learning]**  
+- 🚀 Interested in: **Web Development, Software Engineering, Tech Innovation**  
+- ⚡ Fun fact: I love turning ideas into real projects  
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=teu-user&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-user&layout=compact&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,tailwind" />
 </p>
 
 ---
 
-### 🌐 Contacto
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="[linkedin]">LinkedIn</a> •
-  <a href="[portfolio]">Portfolio</a> •
-  <a href="mailto:[email]">Email</a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiago-videira&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-videira&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+### 🔥 Featured Projects
+
+- 🚀 [Project Name](https://github.com/tiago-videira/project)
+- 💡 [Another Project](https://github.com/tiago-videira/project)
+- ⚡ [Cool Project](https://github.com/tiago-videira/project)
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="[your-linkedin]">LinkedIn</a> •
+  <a href="[your-portfolio]">Portfolio</a> •
+  <a href="mailto:[your-email]">Email</a>
+</p>
+
+---
+
+### 🧠 Philosophy
+
+> "Code, learn, build, repeat."
+
+---
+
+### ⭐ Thanks for visiting!
+
+If you like my work, consider giving a ⭐ to my repositories 😄
