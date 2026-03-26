@@ -23,7 +23,7 @@
 ### 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,js,c,sql," />
+  <img src="https://skillicons.dev/icons?i=linux,python,js,c,wireshark," />
 </p>
 
 ---
