@@ -59,8 +59,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="[www.linkedin.com/in/tiagogvideira]">LinkedIn</a> •
-  <a href="[your-portfolio]">Portfolio</a> •
+  <a href="www.linkedin.com/in/tiagogvideira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
