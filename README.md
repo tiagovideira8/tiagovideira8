@@ -23,7 +23,7 @@
 ### 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,js,c" />
+  <img src="https://skillicons.dev/icons?i=linux,python,java,c" />
 
   <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
