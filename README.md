@@ -20,13 +20,11 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,tailwind" />
+  <img src="https://skillicons.dev/icons?i=linux,python,js,ts,react,node" />
 </p>
-
----
 
 ---
 
