@@ -24,9 +24,10 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,python,js,c" />
-  <img src="https://img.shields.io/badge/-MATLAB-black?style=for-the-badge&logo=Mathworks" />
-  <img src="https://img.shields.io/badge/-Wireshark-black?style=for-the-badge&logo=wireshark" />
-  <img src="https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql" />
+
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Wireshark_icon.svg" />
+  <img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </p>
 
 ---
