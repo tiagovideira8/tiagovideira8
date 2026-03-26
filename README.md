@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Passionate+about+Technology;Building+cool+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=Passionate+about+Technology;Building+cool+projects" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 💻 I’m passionate about building projects and learning new technologies  
-- 🌱 Currently learning: **[add what you're learning]**  
-- 🚀 Interested in: **Web Development, Software Engineering, Tech Innovation**  
-- ⚡ Fun fact: I love turning ideas into real projects  
+- 📡 Passionate about **Telecommunications and Networking**
+- 💻 I enjoy building projects and exploring new technologies  
+- 🌱 Currently learning: **Networking, Systems, and Infrastructure**  
+- 🎯 Goal: Become a **Network Engineer / Telecom Specialist**  
+- ⚡ Fun fact: I like understanding how systems communicate behind the scenes  
 
 ---
 
@@ -24,6 +25,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,node,python,tailwind" />
 </p>
+
+---
+
+---
+
+### 📡 Areas of Interest
+
+- 🌐 Computer Networks  
+- 📡 Telecommunications Systems  
+- 🔐 Network Security  
+- 🖥️ Systems Administration  
+- ☁️ Cloud & Infrastructure  
 
 ---
 
