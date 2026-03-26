@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">👋 Olá, eu sou [Teu Nome]</h1>
 
-<!--
-**tiagovideira8/tiagovideira8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Developer | 🚀 Tech Lover | 🎯 Always Learning
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&center=true&vCenter=true&lines=Fullstack+Developer;Always+learning+new+things;Building+cool+projects" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 Sobre mim
+
+- 🔭 Atualmente a trabalhar em: **[projeto]**
+- 🌱 A aprender: **[tech]**
+- ⚡ Fun fact: **[algo interessante]**
+
+---
+
+### 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,node,tailwind,python" />
+</p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=teu-user&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-user&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌐 Contacto
+
+<p align="center">
+  <a href="[linkedin]">LinkedIn</a> •
+  <a href="[portfolio]">Portfolio</a> •
+  <a href="mailto:[email]">Email</a>
+</p>
