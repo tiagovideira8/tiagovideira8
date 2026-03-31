@@ -35,24 +35,7 @@
 - 📡 Telecommunications Systems  
 - 🔐 Network Security  
 - 🖥️ Systems Administration  
-- ☁️ Cloud & Infrastructure  
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tiago-videira&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiago-videira&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 🔥 Featured Projects
-
-- 🚀 [Project Name](https://github.com/tiago-videira/project)
-- 💡 [Another Project](https://github.com/tiago-videira/project)
-- ⚡ [Cool Project](https://github.com/tiago-videira/project)
+- ☁️ Cloud & Infrastructure
 
 ---
 
@@ -63,12 +46,6 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 🧠 Philosophy
-
-> "Code, learn, build, repeat."
 
 ---
 
